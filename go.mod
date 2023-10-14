@@ -16,4 +16,4 @@ require (
 	golang.org/x/image v0.0.0-20190523035834-f03afa92d3ff // indirect
 )
 
-replace github.com/JoshPattman/goevo => ../goevo
+//replace github.com/JoshPattman/goevo => ../goevo
